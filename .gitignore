@@ -1,0 +1,11 @@
+# Arquivos de dependências
+node_modules/
+
+# Arquivos de sessão do WhatsApp (nunca devem ir para o Git)
+.wwebjs_auth/
+
+# Arquivo de variáveis de ambiente
+.env
+
+# Logs de debug e outros arquivos temporários
+npm-debug.log
